@@ -140,9 +140,9 @@ export default function Header() {
                   <Mail size={15} style={{ color: 'var(--accent-cyan)' }} />
                   <span>contact@wenwix.com</span>
                 </a>
-                <a href="tel:+918001234567" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                <a href="tel:+917579583868" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                   <Phone size={15} style={{ color: 'var(--accent-cyan)' }} />
-                  <span>+91 (800) 123-4567</span>
+                  <span>+91 75795 83868</span>
                 </a>
               </div>
             </div>

@@ -59,7 +59,7 @@ export default function Footer() {
               </li>
               <li style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', fontSize: '0.9rem', color: 'var(--text-muted)' }}>
                 <Phone size={16} style={{ color: 'var(--accent-cyan)' }} />
-                <span>+91 (800) 123-4567</span>
+                <a href="tel:+917579583868" style={{ color: 'inherit', textDecoration: 'none' }}>+91 75795 83868</a>
               </li>
               <li style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', fontSize: '0.9rem', color: 'var(--text-muted)' }}>
                 <MapPin size={16} style={{ color: 'var(--accent-cyan)' }} />

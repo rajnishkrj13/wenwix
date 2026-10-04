@@ -104,7 +104,7 @@ export default function Contact() {
                   </div>
                   <div style={{ minWidth: 0, overflow: 'hidden' }}>
                     <div style={{ fontSize: '0.78rem', color: 'var(--text-subtle)', fontFamily: 'var(--font-mono)' }}>PHONE / WHATSAPP</div>
-                    <a href="tel:+918001234567" style={{ fontSize: '1rem', fontWeight: 600, color: '#fff' }}>+91 (800) 123-4567</a>
+                    <a href="tel:+917579583868" style={{ fontSize: '1rem', fontWeight: 600, color: '#fff' }}>+91 75795 83868</a>
                   </div>
                 </div>
 
