@@ -41,12 +41,14 @@ export default function SEO({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:site_name" content="Wenwix Technologies" />
+      <meta property="og:image" content="https://wenwix.com/logo.png" />
 
       {/* Twitter */}
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content={canonical} />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
+      <meta property="twitter:image" content="https://wenwix.com/logo.png" />
 
       {/* JSON-LD Structured Data */}
       <script type="application/ld+json">

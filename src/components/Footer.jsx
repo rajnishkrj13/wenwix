@@ -9,8 +9,15 @@ export default function Footer() {
         <div className="footer-top">
           {/* Brand Info */}
           <div className="footer-col">
-            <Link to="/" className="logo-brand" style={{ marginBottom: '1.25rem' }}>
-              wenwix<span className="logo-dot">.</span>
+            <Link to="/" className="logo-brand" style={{ marginBottom: '1.25rem' }} aria-label="Wenwix Technologies Home">
+              <img 
+                src="/logo-horizontal-dark.png" 
+                alt="Wenwix Technologies - Ideas, Solutions, Growth" 
+                className="footer-logo-img" 
+                width="310"
+                height="48"
+                loading="lazy"
+              />
             </Link>
             <p style={{ maxWidth: '320px', fontSize: '0.94rem', marginBottom: '1.5rem' }}>
               Technology, business and digital experience solutions engineered for practical execution and modern growth.

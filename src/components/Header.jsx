@@ -62,7 +62,14 @@ export default function Header() {
           aria-label="Wenwix Technologies Home"
           onClick={() => setMobileMenuOpen(false)}
         >
-          wenwix<span className="logo-dot">.</span>
+          <img 
+            src="/logo-header-dark.png" 
+            alt="Wenwix Technologies" 
+            className="brand-logo-img" 
+            width="277"
+            height="45"
+            loading="eager"
+          />
         </Link>
 
         {/* Desktop Navigation */}
